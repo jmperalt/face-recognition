@@ -10,9 +10,11 @@ Note: I ran into problem, and I troubleshoot. I run the following command in ord
 3. pip install face_recognition==1.2.2
 
 Commiting your work to git repository:
+```
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/jmperalt/face-recognition.git
 git push -u origin main
+```
